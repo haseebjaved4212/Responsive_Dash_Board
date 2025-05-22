@@ -6,7 +6,6 @@ This is a responsive dashboard built using **HTML** and **CSS** only. It is desi
 ## 🔧 Features
 
 - Fully responsive layout
-- 
 - Clean and modern UI
 - Sidebar navigation
 - Dashboard content section
