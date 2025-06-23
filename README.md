@@ -14,7 +14,7 @@ This is a responsive dashboard built using **HTML** and **CSS** only. It is desi
 - Preview
 - ![127 0 0 1_3000_index html (2)](https://github.com/user-attachments/assets/ae4c7864-0232-4edf-bcd9-3bc772296eb8)
 
-_If you like this project star it 
+-If you like this project star it 
 
-_ Thanks 
+-Thanks 
 
